@@ -7,3 +7,5 @@ F:\data\CSharp\ColorBlockArray\ColorBlockArray\obj\Debug\ColorBlockArray.csproj.
 F:\data\CSharp\ColorBlockArray\ColorBlockArray\obj\Debug\ColorBlockArray.csproj.CopyComplete
 F:\data\CSharp\ColorBlockArray\ColorBlockArray\obj\Debug\ColorBlockArray.exe
 F:\data\CSharp\ColorBlockArray\ColorBlockArray\obj\Debug\ColorBlockArray.pdb
+F:\data\CSharp\ColorBlockArray\ColorBlockArray\bin\Debug\Newtonsoft.Json.dll
+F:\data\CSharp\ColorBlockArray\ColorBlockArray\bin\Debug\Newtonsoft.Json.xml
